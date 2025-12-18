@@ -1,0 +1,32 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (if large)
+*.csv
+*.h5
+*.pkl
+*.pickle
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
